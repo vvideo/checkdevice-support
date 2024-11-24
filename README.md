@@ -5,4 +5,4 @@ Support:
 - New feature or improvement
 - Translation errors
 
-[Report]()
+[Report](https://github.com/vvideo/checkdevice-support/issues/new)
